@@ -1,6 +1,8 @@
 print("Hello, World!")
 y = "John"
 print(y)
+user_input=input("enter your name:")
+print(f"Hello,{user_input}!")
 thislist = ["apple", "banana", "cherry"]
 print(thislist)
 thistuple = ("apple", "banana", "cherry")
